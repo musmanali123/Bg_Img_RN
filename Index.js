@@ -1,4 +1,4 @@
-import { StyleSheet, Animated, View, Dimensions, StatusBar, FlatList, Image } from 'react-native
+byimport { StyleSheet, Animated, View, Dimensions, StatusBar, FlatList, Image } from 'react-native
  import React, { useRef, useState } from 'react'
 
 const { width, height } = Dimensions.get('screen');
