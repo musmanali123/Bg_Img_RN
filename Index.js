@@ -1,7 +1,7 @@
 byimport { StyleSheet, Animated, View, Dimensions, StatusBar, FlatList, Image } from 'react-native
  import React, { useRef, useState } from 'react'
 
-const { width, height } = Dimensions.get('screen');
+//const { width, height } = Dimensions.get('screen');
 //data array of images
 //const data = [
  //  // 'https://cdn.dribbble.com/users/3281732/screenshots/11192830/media/7690704fa8f0566d572a085637dd1eee.jpg?compress=1&resize=1200x1200',
